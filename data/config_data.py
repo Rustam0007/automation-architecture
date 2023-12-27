@@ -1,0 +1,2 @@
+PERSON_ID = 1234
+CARD_TOKEN = "token"
